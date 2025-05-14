@@ -1,6 +1,6 @@
 ## Hi there 👋
-## https://github.com/Sarcandi31 - Currenly main accound with repositories
-## https://github.com/SarcandiLegacy - Old account
+## https://github.com/Sarcandi - The main account used for creating commits. From September 27, 2024
+## https://github.com/Sarcandi31 - An account for owning repositories. From January 28, 2025
 <!--
 **Sarcandi/Sarcandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
