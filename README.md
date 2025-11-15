@@ -1,7 +1,5 @@
 # 💟 About Me:
 ### 🔧 Developer | 🖥️ SysAdmin | 🛡️ Cybersecurity <br>─── ⋆⋅☆⋅⋆ ───<br>🔗 TG: [@sarcandi](https://sarcandi.t.me)
-### [@Sarcandi](https://github.com/Sarcandi)- The main account used for creating commits.
-### [@Sarcandi31](https://github.com/Sarcandi31) - An account for owning repositories.
 
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sarcandi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sarcandi) 
